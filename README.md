@@ -1,2 +1,2 @@
 #CoreLocationApp
-This app I am learning about core location from various tutorials and implementing them.
+In this app I will learn about core location from various tutorials and implement them.
